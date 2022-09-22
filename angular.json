@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "connor-is-cool"
+  "defaultProject": "connor-is-cool",
+  "cli": {
+    "analytics": false
+  }
 }
